@@ -1,4 +1,4 @@
-# flutter_app_builder
+# app_builder_template
 
 A new Flutter project.
 
